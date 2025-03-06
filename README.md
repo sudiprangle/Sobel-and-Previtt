@@ -17,7 +17,7 @@ Both the **Sobel** and **Prewitt** operators are edge detection techniques used 
   - Also detects edges by computing gradient magnitudes.
   - Slightly less sensitive to noise compared to Sobel.
 
- pplications:
+ Applications:
 - **Edge Detection**: Identifies object boundaries in an image.
 - **Feature Extraction**: Used in tasks like object recognition and image segmentation.
 
